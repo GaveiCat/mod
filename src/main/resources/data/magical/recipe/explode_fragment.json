@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magical:explode_crystal"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "magical:explode_fragment"
+  }
+}
